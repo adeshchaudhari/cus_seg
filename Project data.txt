@@ -1,0 +1,83 @@
+                         ATM Card PM
+
+Married:
+
+moderate & quite rich ==> 5-10 ==> male
+little & NA ==> 3-7 ==> male
+rich ==> 4-8 ==> male & female
+
+moderate & quite rich ==> spending_score : low & average ==> 0-5 ==> female & NA
+moderate & quite rich ==> spending_score : high ==> 4-8 ==> female & NA
+little & NA ==> spending_score : low & average ==> 0-5 ==> female & NA
+little & NA ==> spending_score : high ==> 2-4 ==> female & NA
+
+Single/divorced/unknown:
+
+moderate & quite rich ==> 3-7 ==> male
+little & NA ==> 2-4 ==> male
+rich ==> 0-3 ==> male & female
+
+others ==> 0-5
+
+==================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>============================>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+                         Credit Card PM
+
+Married:
+
+moderate & quite rich ==> 4-7 ==> male
+little & NA ==> 0-3 ==> male
+rich ==> 7-11 ==> male & female
+
+moderate & quite rich ==> spending_score : low & average ==> 0-3 ==> female & NA
+moderate & quite rich ==> spending_score : high ==> 4-7 ==> female & NA
+little & NA ==> spending_score : low & average ==> 0-3 ==> female & NA
+little & NA ==> spending_score : high ==> 2-4 ==> female & NA
+
+Single/divorced/unknown:
+
+moderate & quite rich ==> 5-8 ==> male
+little & NA ==> 0-3 ==> male
+rich ==> 6-13 ==> male & female
+
+others ==> 4-8
+
+----------------------
+
+Annual Income
+
+Graduate(Y) - Marital(N) - SS(H) = 120 - 150
+Graduate(Y) - Marital(N) - SS(A) = 100 - 130
+Graduate(Y) - Marital(N) - SS(L) = 90 - 110
+
+Graduate(Y) - Marital(Y) - SS(H) = 110 - 140
+Graduate(Y) - Marital(Y) - SS(A) = 90 - 120
+Graduate(Y) - Marital(Y) - SS(L) = 70 - 100
+
+Graduate(N) - Marital(Y) - SS(H) = 90 - 120
+Graduate(N) - Marital(Y) - SS(A) = 70 - 100
+Graduate(N) - Marital(Y) - SS(L) = 50 - 80
+
+Graduate(N) - Marital(N) - SS(H) = 100 - 130
+Graduate(N) - Marital(N) - SS(A) = 80 - 110
+Graduate(N) - Marital(N) - SS(L) = 60 - 90
+
+----------------------
+
+Spending Score
+
+Graduate(Y) - Marital(N) - SS(H) = 80 - 100
+Graduate(Y) - Marital(N) - SS(A) = 70 - 90
+Graduate(Y) - Marital(N) - SS(L) = 60 - 80
+
+Graduate(Y) - Marital(Y) - SS(H) = 70 - 90
+Graduate(Y) - Marital(Y) - SS(A) = 60 - 80
+Graduate(Y) - Marital(Y) - SS(L) = 50 - 70
+
+Graduate(N) - Marital(Y) - SS(H) = 50 - 70
+Graduate(N) - Marital(Y) - SS(A) = 40 - 60
+Graduate(N) - Marital(Y) - SS(L) = 20 - 50
+
+Graduate(N) - Marital(N) - SS(H) = 60 - 80
+Graduate(N) - Marital(N) - SS(A) = 30 - 60
+Graduate(N) - Marital(N) - SS(L) = 1 - 30
